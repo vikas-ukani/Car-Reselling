@@ -21,8 +21,8 @@
 
 ### Clone the repo.
 ```
-git clone 
-cd 
+git clone https://github.com/vikas-ukani/Car-Reselling.git
+cd Car-Reselling
 ```
 
 ### Create .env file
@@ -35,10 +35,7 @@ cp .env.example .env
 ```
 composer install 
 ```
-- Install node module pacakges for vue js
-```
-npm install 
-```
+
 
 - Configure local database connection.
 ###  Generate key if it's required, Run the command 
